@@ -13,10 +13,11 @@
 
 ## NCL-SM Code:
 
-### Non-transverse myofibre detection
+### Non-transverse myofibre (NTM) detection:
+The python [script](https://github.com/atifkhanncl/NCL-SM/blob/main/non_transverse_myofibre_detection.py) enables classification of  NTM in instance segmentation mask provided.
 
 ### Annotation quality assessement metrics
-
+The [notebook](https://github.com/atifkhanncl/NCL-SM/blob/main/annotation_quality_evaluation_metrics.ipynb) walk through evaluating annotation/segmentation quality of given instance segmentation mark by comparing it to NCL-SM 'ground truth' mask
 
 ## NCL-SM Associated Clinical and Other Information 
 
