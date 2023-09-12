@@ -6,5 +6,5 @@
 | ---------------------- |:--------------------------:| --------------:| ---------------- |:-------------:| -----:             |
 | IMC                    | C01                        | 293            | Healthy Control  | ACL           |reference 12/NE/0395|
 | IMC                    | C03                        |   306          | Healthy Control            | ACL        |   reference 12/NE/0395             |
-|IMC                     | C03-2                      |   977          |  Healthy Control            | ACL  t      |   reference 12/NE/0395             |
+|IMC                     | C03-2                      |   977          |  Healthy Control            | ACL       |   reference 12/NE/0395             |
 
