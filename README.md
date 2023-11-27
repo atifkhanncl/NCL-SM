@@ -4,7 +4,7 @@
 
 # NCL-SM Dataset
 ### NCL-SM: Newcastle Skeletal Muscle dataset is a Fully Annotated Dataset of Images from Human Skeletal Muscle Biopsies
-
+![alt text](https://github.com/atifkhanncl/NCL-SM/tree/main/Logos_images/Abstract_Image.png?raw=true)
 ## NCL-SM Details:
 
  Download: [link](https://newcastle-my.sharepoint.com/:f:/r/personal/b6071289_newcastle_ac_uk/Documents/NCL_SM?csf=1&web=1&e=wkb6rM)  (this link is currently private as the dataset paper is currectly under review)
