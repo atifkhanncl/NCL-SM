@@ -8,7 +8,7 @@
 * **End-to-end Annotation Process**:  **Tile A**: SM image made by arranging greyscale images of a cell membrane protein marker and mitochondrial mass protein marker into an RGB image where R = membrane protein marker, G = mass protein marker and B = 0; **Tile B**: Manually annotated instance segmentation mask for the image A; **Tile C**: Manually classified mask of Frozen Artefact Myofibres (FAMs) overlaid on the image; **Tile D**: Semi-manually classified mask of Non-Transverse Myofibres (NTMs) mask overlaid on the image; **Tile E**: Manually annotated segmentation mask of Folded tissue Regions (FRs) overlaid on the image; **Tile F**: Final instance segmentation mask of 'Analysable' myofibres made by removing C,D and E from B.*
 ## NCL-SM Details:
 
- Download: [link](https://newcastle-my.sharepoint.com/:f:/r/personal/b6071289_newcastle_ac_uk/Documents/NCL_SM?csf=1&web=1&e=wkb6rM)  (this link is currently private as the dataset paper is currectly under review)
+ Download: [link](https://data.ncl.ac.uk/articles/dataset/Newcastle_Skeletal_Muscle_NCL-SM_A_Fully_Annotated_Dataset_of_Images_from_Human_Skeletal_Muscle_Biopsies/24125391)  
 
  Data directory structure: NCL-SM consist of two directories (i) IMC & (ii) IF. Each of these have 9 directories, the names of the these should explain the content, the three directories with abbrivated names i.e. 'Mask_All_AM' refer to instance segmentation mask of all analysable myofibres, 'Mask_AM_vs_NAM' refer to class mass of analysable vs non-analysable mayofibres and 'Mask_QA' refer to segmentation mask of quality assurance duplicate annotations. 
 
